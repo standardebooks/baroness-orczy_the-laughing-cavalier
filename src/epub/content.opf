@@ -50,7 +50,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/33208</dc:source>
 		<dc:source>https://archive.org/details/laughingcavalie01orczgoog</dc:source>
-<meta property="se:production-notes">The word <span xml:lang="nl">mejuffrouw</span> is used quite often and so is only italicized the first time.</meta>
+<meta property="se:production-notes">Several Dutch words are used quite often and therefore are only italicized the first time.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Laughing_Cavalier</meta>
