@@ -55,7 +55,7 @@
 		<meta property="se:production-notes">Several Dutch words are used quite often and therefore are only italicized the first time.</meta>
 		<meta property="se:word-count">128585</meta>
 		<meta property="se:reading-ease.flesch">66.47</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Laughing_Cavalier</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Laughing_Cavalier_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/baroness-orczy_the-laughing-cavalier</meta>
 		<dc:creator id="author">Baroness Orczy</dc:creator>
 		<meta property="file-as" refines="#author">Orczy, Baroness</meta>
