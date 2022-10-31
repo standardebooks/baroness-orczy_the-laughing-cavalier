@@ -41,11 +41,11 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Scarlet Pimpernel</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
-		<meta property="group-position" refines="#collection-1">5</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">An ancestor of the Scarlet Pimpernel is recruited to kidnap a woman for a few days.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;A young woman in 17th century Holland inadvertently overhears the details of a plot to kill a political figure. The principal figures in the plot, one of whom is her brother and another her former lover, hire an insolent English mercenary to kidnap her to get her out of the way until their deeds are done. From there very little goes according to plan.&lt;/p&gt;
-			&lt;p&gt;For her fifth novel in the series, &lt;a href="https://standardebooks.org/ebooks/baroness-orczy"&gt;Baroness Orczy&lt;/a&gt; uses Franz Hals’ famous painting titled &lt;i&gt;The Laughing Cavalier&lt;/i&gt; to build an elaborate backstory for the ancestor of the Scarlet Pimpernel.&lt;/p&gt;
+			&lt;p&gt;For her fifth published novel in the series, &lt;a href="https://standardebooks.org/ebooks/baroness-orczy"&gt;Baroness Orczy&lt;/a&gt; uses Franz Hals’ famous painting titled &lt;i&gt;The Laughing Cavalier&lt;/i&gt; to build an elaborate backstory for the ancestor of the Scarlet Pimpernel.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/33208</dc:source>
