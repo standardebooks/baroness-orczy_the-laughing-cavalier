@@ -32,7 +32,7 @@
 		<meta property="file-as" refines="#title">Laughing Cavalier, The</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<dc:subject id="subject-2">Adventure stories</dc:subject>
-		<dc:subject id="subject-3">Netherlands -- History -- 17th century -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Netherlands--History--17th century--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
